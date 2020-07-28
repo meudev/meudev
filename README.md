@@ -1,7 +1,7 @@
 ### Bem Vindo, cuidado para não se perder com a bagunça. 👋
 
 
-😄 Pronouns: Um jovem, não tão jovem, desenvolvedor!
+😄  Um jovem, não tão jovem, desenvolvedor!
 
 
 
