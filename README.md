@@ -1,8 +1,14 @@
 ### Bem Vindo, cuidado para não se perder com a bagunça. 👋
 
-[![Blog Badge](https://img.shields.io/badge/Blog-meudev.com-blue)](https://meudev.com.br)
+
+😄 Pronouns: Um jovem, não tão jovem, desenvolvedor!
+
+
+
+[![Site Badge](https://img.shields.io/badge/Site-meudev.com-black)](https://meudev.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-salomon-ferreira-abdesalan)](https://www.linkedin.com/in/adrian-salomon-ferreira-abdesalan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-lightgrey?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdesalan)](https://www.instagram.com/abdesalan)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdesalan)](https://www.instagram.com/abdesalan)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abdesalan)](https://www.facebook.com/abdesalan)
 
 <!--
 **meudev/meudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
