@@ -1,7 +1,7 @@
-### Bem Vindo, cuidado para não se perder com a bagunça. 👋
+### Welcome, be careful not to get lost in the mess.. 👋
 
 
-😄  Um jovem, não tão jovem, desenvolvedor!
+😄  A young, not so young, developer!
 
 
 
@@ -10,17 +10,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdesalan)](https://www.instagram.com/abdesalan)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abdesalan)](https://www.facebook.com/abdesalan)
 
-<!--
-**meudev/meudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- :rocket: Skills: <strong>React Native | TypeScript | StyleSheet | JavaScript | NPM / Yarn </strong>
+- :mortar_board: Graduate: <strong>Analysis and Systems Development</strong> (Senac-SC)
+- :book: Studying: <strong>React | Node.js</strong> (Rocketseat).
+- :briefcase: Looking for opportunity as a Mobile Developer - React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
