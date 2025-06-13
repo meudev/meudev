@@ -14,7 +14,6 @@
 
 - :rocket: Skills: <strong>React Native | TypeScript | StyleSheet | JavaScript | Expo / Yarn </strong>
 - :mortar_board: Graduate: <strong>Analysis and Systems Development</strong> (Senac-SC)
-- :book: Studying: <strong>React | Node.js</strong> (Rocketseat).
-- :briefcase: Looking for opportunity as a Mobile Developer - React Native.
+- :briefcase: Mobile Engineer - React Native.
 
 <br>
