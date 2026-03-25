@@ -1,19 +1,58 @@
-### Welcome, be careful not to get lost in the mess.. 👋
+# Hi, I'm Adrian Abdesalan 👋
 
+**Senior Mobile Engineer | React Native | TypeScript**
 
-😄  A young, not so young, developer!
+---
 
+## 👨‍💻 About me
 
+Senior Mobile Engineer with 5+ years of experience building scalable, maintainable, and high-performance mobile applications using **React Native** and **TypeScript**.
 
-[![Site Badge](https://img.shields.io/badge/Site-meudev.com-black)](https://meudev.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-salomon-ferreira-abdesalan)](https://www.linkedin.com/in/adrian-salomon-ferreira-abdesalan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdesalan)](https://www.instagram.com/abdesalan)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abdesalan)](https://www.facebook.com/abdesalan)
+I’ve worked on products with real business impact across fintech and retail, contributing to architecture decisions, performance improvements, and user experience.
 
-<br>
+Professional experience includes:
 
-- :rocket: Skills: <strong>React Native | TypeScript | StyleSheet | JavaScript | Expo / Yarn </strong>
-- :mortar_board: Graduate: <strong>Analysis and Systems Development</strong> (Senac-SC)
-- :briefcase: Mobile Engineer - React Native.
+- Sinqia (fintech solutions)
+- Vakinha (crowdfunding platform)
+- DBC Company (allocated at Grupo Zaffari - retail)
 
-<br>
+---
+
+## 🧠 Technical Skills
+
+- **Mobile:** React Native, Expo  
+- **Languages:** TypeScript, JavaScript  
+- **Architecture:** Clean Architecture, SOLID, Design Patterns  
+- **State Management:** Context API, Redux, Zustand  
+- **Navigation:** React Navigation, Expo Router  
+- **APIs:** REST, integration, error handling  
+- **Tools:** Git, Yarn  
+
+---
+
+## 🚀 What I bring
+
+- Strong focus on scalable architecture and code quality  
+- Experience working in production apps with real users  
+- Performance optimization and debugging in React Native  
+- Collaboration with cross-functional teams (backend, product, design)  
+- Ownership mindset and product-oriented thinking  
+
+---
+
+## 🌍 Open to opportunities
+
+Currently open to international opportunities, especially in Europe, remote or relocation.
+
+---
+
+## 🌐 Connect with me
+
+- 🌍 Website: https://meudev.com.br  
+- 💼 LinkedIn: https://www.linkedin.com/in/adrian-salomon-ferreira-abdesalan  
+
+---
+
+## ⚡ Fun fact
+
+I like to keep things organized… but complex apps always try to prove me wrong 😄
